@@ -9,7 +9,7 @@ shipments, and client data.
 - JavaScript
 - HTML / CSS
 - Node.js
-- 
+
 ## Preview
 
 ![MN Logistic Website](image.png)
