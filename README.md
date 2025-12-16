@@ -17,6 +17,5 @@ npm install
 npm run dev
 
 ## Preview
-![MN Logistic Website](screenshot.png)
-<img width="1919" height="976" alt="image" src="https://github.com/user-attachments/assets/563ac1d9-fa92-42c9-b2da-01c209372f13" />
+![MN Logistic Website](mn-picture.png)
 
