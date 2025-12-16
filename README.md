@@ -16,6 +16,3 @@ cd client
 npm install
 npm run dev
 
-## Preview
-![MN Logistic Website](mn-picture.png)
-
