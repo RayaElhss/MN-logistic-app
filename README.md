@@ -10,7 +10,7 @@ shipments, and client data.
 - HTML / CSS
 - Node.js
 
-![Live Demo](https://img.shields.io/badge/Live%20Site-mnlogistic.bg-blue)
+[![Live Demo](https://img.shields.io/badge/Live%20Site-mnlogistic.bg-blue)](https://mnlogistic.bg)
 
 ## Preview
 
