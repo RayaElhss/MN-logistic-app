@@ -9,10 +9,13 @@ shipments, and client data.
 - JavaScript
 - HTML / CSS
 - Node.js
+- 
+## Preview
+
+![MN Logistic Website](image.png)
 
 ## Getting Started
 ```bash
 cd client
 npm install
 npm run dev
-
