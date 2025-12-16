@@ -1,4 +1,5 @@
 *.zip
+.DS_Store
 client/src/components/test/Test.jsx
 client/src/components/test/Test.jsx
 client/src/components/tours/TestTour.module.css
